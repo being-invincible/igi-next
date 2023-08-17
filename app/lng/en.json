@@ -86,7 +86,7 @@
                 "color" : ["White"],
                 "size" : ["100 x 260 x 27", "100 x 260 x 27", "160 x 200 x 27", "200 x 200 x 27"],
                 "type" : ["Single 01", "Single 02", "Queen", "King"],
-                "link" : "/bed linen/fitted bed sheet",
+                "link" : "/en/bed linen/fitted bed sheet",
                 "img" : ["/fittedbs.jpeg", "https://img1.exportersindia.com/product_images/bc-full/2020/6/7394823/fitted-bed-sheet-1591516729-5469637.jpeg"]
             },
             "duvet" : {
@@ -99,7 +99,7 @@
                 "color" : ["White"],
                 "size" : ["155 x 235", "235 x 255"],
                 "type" : ["Single", "King"],
-                "link" : "/bed linen/duvet",
+                "link" : "/en/bed linen/duvet",
                 "img" : ["/duvet.jpg", "https://www.premierinnathome.com/wp-content/uploads/2021/02/Duvet-Image-1-Hero-1-scaled.jpg"]
             },
             "duvet covers" : {
@@ -111,7 +111,7 @@
                 "colorCode" : ["#ffffff"],
                 "color" : ["White"],"size" : ["160 x 240", "240 x 260"],
                 "type" : ["Single", "King"],
-                "link" : "/bed linen/duvet covers",
+                "link" : "/en/bed linen/duvet covers",
                 "img" : ["https://www.sleepfoundation.org/wp-content/uploads/2021/07/What-is-a-Duvet-Cover.jpg", "/duvetCover.jpg"]
             },
             "mattress protectors" : {
@@ -124,7 +124,7 @@
                 "color" : ["White"],
                 "size" : ["100 x 200 x 30", "120 x 200 x 30", "160 x 200 x 30", "200 x 200 x 30"],
                 "type" : ["Single 01", "Single 02", "Queen", "King"],
-                "link" : "/bed linen/mattress protectors",
+                "link" : "/en/bed linen/mattress protectors",
                 "img" : ["/matress-protector.jpeg"]
             },
             "mattress encasement protectors" : {
@@ -137,7 +137,7 @@
                 "color" : ["White"],
                 "size" : ["100 x 200 x 30", "120 x 200 x 30", "160 x 200 x 30", "200 x 200 x 30"],
                 "type" : ["Single 01", "Single 02", "Queen", "King"],
-                "link" : "/bed linen/mattress encasement protectors",
+                "link" : "/en/bed linen/mattress encasement protectors",
                 "img" : ["/mattress-encasement-protector.jpeg"]
             },
             "bed runner" : {
@@ -150,7 +150,7 @@
                 "color" : ["White"],
                 "size" : ["170 x 45", "260 x 45"],
                 "type" : ["Queen", "King"],
-                "link" : "/bed linen/bed runner",
+                "link" : "/en/bed linen/bed runner",
                 "img" : ["/bedrunner.jpg"]
             },
             "bed skirt" : {
@@ -163,7 +163,7 @@
                 "color" : ["White"],
                 "size" : ["100 x 200", "120 x 200", "180 x 200", "200 x 200"],
                 "type" : ["Single 01", "Single 02", "Queen", "King"],
-                "link" : "/bed linen/bed skirt",
+                "link" : "/en/bed linen/bed skirt",
                 "img" : ["/bed-skirt.jpeg", "https://secure.img1-fg.wfcdn.com/im/94276422/compr-r85/2080/208013024/wayfair-basics-1800-series-14-bed-skirt.jpg"]
             },
             "pillow" : {
@@ -176,7 +176,7 @@
                 "color" : ["White"],
                 "size" : ["50 x 75", "50 x 90"],
                 "type" : ["Queen", "King"],
-                "link" : "/bed linen/pillow",
+                "link" : "/en/bed linen/pillow",
                 "img" : ["/pillow.jpeg","https://upload.wikimedia.org/wikipedia/commons/a/ad/Pillows_on_a_hotel_bed.jpg"]
             },
             "pillow cases" : {
@@ -189,7 +189,7 @@
                 "color" : ["White"],
                 "size" : ["50 x 75", "50 x 90"],
                 "type" : ["Queen", "King"],
-                "link" : "/bed linen/pillow cases",
+                "link" : "/en/bed linen/pillow cases",
                 "img" : ["https://m.media-amazon.com/images/I/51AmxIXD1RL.jpg","https://m.media-amazon.com/images/I/61qXIsijgpL._AC_UF1000,1000_QL80_.jpg"]
             },
             "pillow protectors" : {
@@ -202,7 +202,7 @@
                 "color" : ["White"],
                 "size" : ["50 x 75", "50 x 90"],
                 "type" : ["Queen", "King"],
-                "link" : "/bed linen/pillow protectors",
+                "link" : "/en/bed linen/pillow protectors",
                 "img" : ["https://www.soakandsleep.com/media/catalog/product/c/o/cotton-protectors-base.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=265&width=265&canvas=265:265", "https://mohansluxury.com/wp-content/uploads/2023/01/mohans-pillow-protector.jpg"]
             },
             "blanket" : {
@@ -215,7 +215,7 @@
                 "color" : ["White"],
                 "size" : ["Single", "King", "Queen"],
                 "type" : ["1.3 KG", "3 KG", "4 KG"],
-                "link" : "/bed linen/blanket",
+                "link" : "/en/bed linen/blanket",
                 "img" : ["https://images.pexels.com/photos/9788329/pexels-photo-9788329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "https://images.unsplash.com/photo-1584969404909-266c201ad383?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"]
             },
             "table cover" : {
@@ -228,7 +228,7 @@
                 "color" : ["White"],
                 "size" : ["Single", "King", "Queen"],
                 "type" : ["1.3 KG", "3 KG", "4 KG"],
-                "link" : "/bed linen/table cover",
+                "link" : "/en/bed linen/table cover",
                 "img" : ["https://img.freepik.com/free-psd/dining-table-mockup-with-white-cloth-wooden-chairs_176382-1943.jpg?w=2000"]
             },
             "chair cover" : {
@@ -241,7 +241,7 @@
                 "color" : ["White"],
                 "size" : ["Single", "King", "Queen"],
                 "type" : ["1.3 KG", "3 KG", "4 KG"],
-                "link" : "/bed linen/chair cover",
+                "link" : "/en/bed linen/chair cover",
                 "img" : ["https://cdn.shopify.com/s/files/1/0434/4178/2939/products/SPANDEXBANQUTCHAIRCOVERDEFACTORIA_1200x1200.jpg?v=1684351179"]
             }
         }
@@ -261,7 +261,7 @@
                 "color" : ["White"],
                 "size" : ["70*140","80*160"],
                 "type" : ["70*140","80*160"],
-                "link" : "/guest amenities/bath towel",
+                "link" : "/en/guest amenities/bath towel",
                 "img" : ["/bath-towel.jpg"]
             },
             "hand towel" : {
@@ -274,7 +274,7 @@
                 "color" : ["White"],
                 "size" : ["50*80"],
                 "type" : ["50*80"],
-                "link" : "/guest amenities/hand towel",
+                "link" : "/en/guest amenities/hand towel",
                 "img" : ["https://img.freepik.com/free-photo/close-up-towels-held-hands_23-2148223773.jpg?w=740&t=st=1682854464~exp=1682855064~hmac=33e36da94a76d0ce7bac85ba2bc687ff5d7aa8774ed2766b76dd2d0dd28d8cdd"]
             },
             "face towel" : {
@@ -287,7 +287,7 @@
                 "color" : ["White"],
                 "size" : ["30*30"],
                 "type" : ["30*30"],
-                "link" : "/guest amenities/face towel",
+                "link" : "/en/guest amenities/face towel",
                 "img" : ["/face-towel.png"]
             },
             "bath mat" : {
@@ -300,7 +300,7 @@
                 "color" : ["White"],
                 "size" : ["50*80"],
                 "type" : ["50*80"],
-                "link" : "/guest amenities/bath mat",
+                "link" : "/en/guest amenities/bath mat",
                 "img" : ["https://img.freepik.com/free-photo/white-cotton-bathroom-mat-home-decor_53876-133338.jpg?w=740&t=st=1682855024~exp=1682855624~hmac=cf378488a675fad58a5f752f6f4b7d85c7c43b0ee24a32729ad8f58f485d7f32"]
             },
             "bathrobe" : {
@@ -313,7 +313,7 @@
                 "color" : ["White"],
                 "size" : ["Small","Medium","Large","Extra Large","XX Large"],
                 "type" : ["S","M","L","XL","XXL"],
-                "link" : "/guest amenities/bathrobe",
+                "link" : "/en/guest amenities/bathrobe",
                 "img" : ["https://images.pexels.com/photos/306739/pexels-photo-306739.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"]
             },
             "slippers" : {
@@ -326,7 +326,7 @@
                 "color" : ["White"],
                 "size" : ["1ml", "4ml", "5ml"],
                 "type" : ["1ml", "4ml", "5ml"],
-                "link" : "/guest amenities/slippers",
+                "link" : "/en/guest amenities/slippers",
                 "img" : ["https://img.freepik.com/premium-photo/white-home-slippers-lying-blue-rug_537415-92.jpg?w=740"]
             },
             "body lotion" : {
@@ -339,7 +339,7 @@
                 "color" : ["White"],
                 "size" : ["100 x 260 x 27", "100 x 260 x 27", "160 x 200 x 27", "200 x 200 x 27"],
                 "type" : ["Single 01", "Single 02", "Queen", "King"],
-                "link" : "/guest amenities/body lotion",
+                "link" : "/en/guest amenities/body lotion",
                 "img" : ["https://images.pexels.com/photos/1029896/pexels-photo-1029896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"]
             },
             "shampoo" : {
@@ -352,7 +352,7 @@
                 "color" : ["White"],
                 "size" : ["100 x 260 x 27", "100 x 260 x 27", "160 x 200 x 27", "200 x 200 x 27"],
                 "type" : ["Single 01", "Single 02", "Queen", "King"],
-                "link" : "/guest amenities/shampoo",
+                "link" : "/en/guest amenities/shampoo",
                 "img" : ["https://images.pexels.com/photos/8015784/pexels-photo-8015784.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"]
             },
             "soap" : {
@@ -365,7 +365,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/guest amenities/soap",
+                "link" : "/en/guest amenities/soap",
                 "img" : ["/soap.png"]
             },
             "shover gel" : {
@@ -378,7 +378,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/guest amenities/shover gel",
+                "link" : "/en/guest amenities/shover gel",
                 "img" : ["https://images.pexels.com/photos/3872898/pexels-photo-3872898.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"]
             },
             "shover cap" : {
@@ -391,7 +391,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/guest amenities/shover cap",
+                "link" : "/en/guest amenities/shover cap",
                 "img" : ["https://media.istockphoto.com/id/1304215321/photo/woman-in-the-shower.jpg?b=1&s=612x612&w=0&k=20&c=vsmSY7oNlsCUiNowpcUN8bKpM-NMuTtfbmIM9JvtosI="]
             },
             "shaving kit" : {
@@ -404,7 +404,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/guest amenities/shaving kit",
+                "link" : "/en/guest amenities/shaving kit",
                 "img" : ["/shaving-kit.png"]
             },
             "dental kit" : {
@@ -417,7 +417,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/guest amenities/dental kit",
+                "link" : "/en/guest amenities/dental kit",
                 "img" : ["https://images.pexels.com/photos/4465814/pexels-photo-4465814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"]
             },
             "comb" : {
@@ -430,7 +430,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/guest amenities/comb",
+                "link" : "/en/guest amenities/comb",
                 "img" : ["/comb.png"]
             },
             "shoe shine" : {
@@ -443,7 +443,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/guest amenities/shoe shine",
+                "link" : "/en/guest amenities/shoe shine",
                 "img" : ["/shoe-shine.png"]
             },
             "loofa" : {
@@ -456,7 +456,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/guest amenities/shaving kit",
+                "link" : "/en/guest amenities/shaving kit",
                 "img" : ["/loofa.png"]
             },
             "sewing kit" : {
@@ -469,7 +469,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/guest amenities/sewing kit",
+                "link" : "/en/guest amenities/sewing kit",
                 "img" : ["https://images.unsplash.com/photo-1530530598316-ee95261d0c3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"]
             }
         }
@@ -489,7 +489,7 @@
                 "color" : ["White"],
                 "size" : ["100 x 200 x 30", "120 x 200 x 30", "160 x 200 x 30", "200 x 200 x 30"],
                 "type" : ["Single 01", "Single 02", "Queen", "King"],
-                "link" : "/homes/home comforter set",
+                "link" : "/en/homes/home comforter set",
                 "img" : ["/home-comforter-set.png"]
             },
             "mattress protectors" : {
@@ -502,7 +502,7 @@
                 "color" : ["White"],
                 "size" : ["100 x 200 x 30", "120 x 200 x 30", "160 x 200 x 30", "200 x 200 x 30"],
                 "type" : ["Single 01", "Single 02", "Queen", "King"],
-                "link" : "/homes/mattress protectors",
+                "link" : "/en/homes/mattress protectors",
                 "img" : ["/matress-protector.jpeg"]
             },
             "pillow" : {
@@ -515,7 +515,7 @@
                 "color" : ["White"],
                 "size" : ["50 x 75", "50 x 90"],
                 "type" : ["Queen", "King"],
-                "link" : "/homes/pillow",
+                "link" : "/en/homes/pillow",
                 "img" : ["https://images.unsplash.com/photo-1445991842772-097fea258e7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"]
             },
             "pillow protectors" : {
@@ -528,7 +528,7 @@
                 "color" : ["White"],
                 "size" : ["50 x 75", "50 x 90"],
                 "type" : ["Queen", "King"],
-                "link" : "/homes/pillow protectors",
+                "link" : "/en/homes/pillow protectors",
                 "img" : ["/pillow-protector.jpeg"]
             },
             "duvet covers" : {
@@ -540,7 +540,7 @@
                 "colorCode" : ["#ffffff"],
                 "color" : ["White"],"size" : ["160 x 240", "240 x 260"],
                 "type" : ["Single", "King"],
-                "link" : "/homes/duvet covers",
+                "link" : "/en/homes/duvet covers",
                 "img" : ["https://www.sleepfoundation.org/wp-content/uploads/2021/07/What-is-a-Duvet-Cover.jpg", "/duvetCover.jpg"]
             },
             "fitted bed sheet" : {
@@ -553,7 +553,7 @@
                 "color" : ["White"],
                 "size" : ["100 x 260 x 27", "100 x 260 x 27", "160 x 200 x 27", "200 x 200 x 27"],
                 "type" : ["Single 01", "Single 02", "Queen", "King"],
-                "link" : "/homes/fitted bed sheet",
+                "link" : "/en/homes/fitted bed sheet",
                 "img" : ["/fittedbs.jpeg", "https://img1.exportersindia.com/product_images/bc-full/2020/6/7394823/fitted-bed-sheet-1591516729-5469637.jpeg"]
             },
             "mattress topper" : {
@@ -566,7 +566,7 @@
                 "color" : ["White"],
                 "size" : ["100 x 260 x 27", "100 x 260 x 27", "160 x 200 x 27", "200 x 200 x 27"],
                 "type" : ["Single 01", "Single 02", "Queen", "King"],
-                "link" : "/homes/mattress topper",
+                "link" : "/en/homes/mattress topper",
                 "img" : ["/mattress-topper.jpeg"]
             }
         }
@@ -586,7 +586,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/toilet paper tissue",
+                "link" : "/en/hotel supplies/toilet paper tissue",
                 "img" : ["https://images.pexels.com/photos/3963073/pexels-photo-3963073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","https://images.pexels.com/photos/191845/pexels-photo-191845.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"]
             },
             "hand paper tissue" : {
@@ -599,7 +599,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/hand paper tissue",
+                "link" : "/en/hotel supplies/hand paper tissue",
                 "img" : ["https://images.pexels.com/photos/3962435/pexels-photo-3962435.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"]
             },
             "face paper tissue" : {
@@ -612,7 +612,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/face paper tissue",
+                "link" : "/en/hotel supplies/face paper tissue",
                 "img" : ["https://images.unsplash.com/photo-1610021684546-0df49fdd1621?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"]
             },
             "floor disinfectant" : {
@@ -625,7 +625,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/floor disinfectant",
+                "link" : "/en/hotel supplies/floor disinfectant",
                 "img" : ["/floor-disinfectant.png"]
             },
             "hand wash" : {
@@ -638,7 +638,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/hand wash",
+                "link" : "/en/hotel supplies/hand wash",
                 "img" : ["/handwash.png"]
             },
             "hand sanitizer" : {
@@ -651,7 +651,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/hand sanitizer",
+                "link" : "/en/hotel supplies/hand sanitizer",
                 "img" : ["https://images.unsplash.com/photo-1583947582387-6f2336412460?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"]
             },
             "washing detergent" : {
@@ -664,7 +664,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/washing detergent",
+                "link" : "/en/hotel supplies/washing detergent",
                 "img" : ["https://images.pexels.com/photos/5591578/pexels-photo-5591578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"]
             },
             "iron box" : {
@@ -677,7 +677,7 @@
                 "color" : [],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/iron box",
+                "link" : "/en/hotel supplies/iron box",
                 "img" : ["/ironbox.jpeg"]
             },
             "ironing table" : {
@@ -690,7 +690,7 @@
                 "color" : [],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/ironing table",
+                "link" : "/en/hotel supplies/ironing table",
                 "img" : ["/ironingtable.jpeg"]
             },
             "fire extinguisher" : {
@@ -703,7 +703,7 @@
                 "color" : [],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/fire extinguisher",
+                "link" : "/en/hotel supplies/fire extinguisher",
                 "img" : ["https://s42814.pcdn.co/wp-content/uploads/2020/09/iStock_507530924-1-scaled.jpg.optimal.jpg","/fire-extinguisher.png"]
             },
             "news paper holder" : {
@@ -716,7 +716,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/news paper holder",
+                "link" : "/en/hotel supplies/news paper holder",
                 "img" : ["https://5.imimg.com/data5/JC/KS/XD/SELLER-79879711/newspaper-stand-500x500.jpg"]
             },
             "podium" : {
@@ -729,7 +729,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/podium",
+                "link" : "/en/hotel supplies/podium",
                 "img" : ["https://www.restaurantfurnitureindia.com/img/products/restaurant-furnitures/podium/wooden-podium.jpg"]
             },
             "multi purpose cleaning cart" : {
@@ -742,7 +742,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/multi purpose cleaning cart",
+                "link" : "/en/hotel supplies/multi purpose cleaning cart",
                 "img" : ["https://acooker.com/wp-content/uploads/2020/05/AF08173.jpg"]
             },
             "two tub cleaning cart" : {
@@ -755,7 +755,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/two tub cleaning cart",
+                "link" : "/en/hotel supplies/two tub cleaning cart",
                 "img" : ["https://upload.wikimedia.org/wikipedia/commons/7/7f/MopWringer-45.jpg"]
             },
             "single tub cleaning cart" : {
@@ -768,7 +768,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/single tub cleaning cart",
+                "link" : "/en/hotel supplies/single tub cleaning cart",
                 "img" : ["https://m.media-amazon.com/images/I/61RYtnV1cqL.jpg"]
             },
             "shoe polishing machine" : {
@@ -781,7 +781,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/shoe polishing machine",
+                "link" : "/en/hotel supplies/shoe polishing machine",
                 "img" : ["https://horeca247.in/wp-content/uploads/2021/02/shoe-polish-machine.jpg"]
             },
             "food cart" : {
@@ -794,7 +794,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/food cart",
+                "link" : "/en/hotel supplies/food cart",
                 "img" : ["https://acooker.com/wp-content/uploads/2020/06/AF08161A%E5%A4%A7.jpg"]
             },
             "hotel reception bell" : {
@@ -807,7 +807,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/hotel reception bell",
+                "link" : "/en/hotel supplies/hotel reception bell",
                 "img" : ["https://images.pexels.com/photos/3771110/pexels-photo-3771110.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"]
             },
             "blue laundry trolley 1 basket" : {
@@ -820,7 +820,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/blue laundry trolley 1 basket",
+                "link" : "/en/hotel supplies/blue laundry trolley 1 basket",
                 "img" : ["https://azcd.harveynorman.com.au/media/catalog/product/9/3/9357641026632.jpg"]
             },
             "hair dryer" : {
@@ -833,7 +833,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/hair dryer",
+                "link" : "/en/hotel supplies/hair dryer",
                 "img" : ["https://i.insider.com/598359aa8754331f4009ca0b?width=1200&format=jpeg"]
             },
             "kettle+tray+2 cups" : {
@@ -846,7 +846,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/kettle+tray+2 cups",
+                "link" : "/en/hotel supplies/kettle+tray+2 cups",
                 "img" : ["/kettle-tray.jpeg"]
             },
             "weight scale" : {
@@ -859,7 +859,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/weight scale",
+                "link" : "/en/hotel supplies/weight scale",
                 "img" : ["https://rukminim2.flixcart.com/image/850/1000/jjubki80/weighing-scale/y/r/f/square-shape-thick-glass-weighing-machine-digital-glass-bathroom-original-imaf7bwgxhqabgyz.jpeg?q=90"]
             },
             "first aid box" : {
@@ -872,7 +872,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/first aid box",
+                "link" : "/en/hotel supplies/first aid box",
                 "img" : ["/first-aid.jpeg"]
             },
             "suggestion box" : {
@@ -885,7 +885,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/suggestion box",
+                "link" : "/en/hotel supplies/suggestion box",
                 "img" : ["/suggestion-box.png"]
             },
             "laundry bag" : {
@@ -898,7 +898,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/laundry bag",
+                "link" : "/en/hotel supplies/laundry bag",
                 "img" : ["/laundry.png"]
             },
             "luggage rack" : {
@@ -911,7 +911,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/luggage rack",
+                "link" : "/en/hotel supplies/luggage rack",
                 "img" : ["https://www.jvd.fr/wp-content/uploads/akeneo/jvd_8661530_PHOTOA_fr_FR-0x1080xfalse.jpg"]
             },
             "men's clothing hanger with lock" : {
@@ -924,7 +924,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/men's clothing hanger with lock",
+                "link" : "/en/hotel supplies/men's clothing hanger with lock",
                 "img" : ["https://m.media-amazon.com/images/I/61+rZOglz-L._AC_SL1600_.jpg"]
             },
             "womens clothing hanger with lock" : {
@@ -937,7 +937,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/womens clothing hanger with lock",
+                "link" : "/en/hotel supplies/womens clothing hanger with lock",
                 "img" : ["https://www.butlerluxury.com/cdn/shop/products/Women_s-Suit-Hanger-4_2048x.jpg?v=1505153847"]
             },
             "automatic room freshener" : {
@@ -950,7 +950,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/automatic room freshener",
+                "link" : "/en/hotel supplies/automatic room freshener",
                 "img" : ["https://i.ytimg.com/vi/EQbOvwviT_Y/maxresdefault.jpg"]
             },
             "bathroom accessory set and bathroom mirror" : {
@@ -963,7 +963,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/bathroom accessory set and bathroom mirror",
+                "link" : "/en/hotel supplies/bathroom accessory set and bathroom mirror",
                 "img" : ["https://media.designcafe.com/wp-content/uploads/2022/01/27222104/modern-bathroom-accessories-where-the-mirror-is-essential-for-every-bathroom.jpg"]
             },
             "stand for billboards" : {
@@ -976,7 +976,7 @@
                 "color" : ["White"],
                 "size" : ["30*40","50*60","64*80"],
                 "type" : ["30*40","50*60","64*80"],
-                "link" : "/hotel supplies/stand for billboards",
+                "link" : "/en/hotel supplies/stand for billboards",
                 "img" : ["https://image.made-in-china.com/202f0j00GTCUKtLBufbu/Hotel-Lobby-Advertising-Board-Metal-Notice-Sign-Stand-Signboard-SS-P10-.jpg"]
             },
             "dustbin with tray" : {
@@ -989,7 +989,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/dustbin with tray",
+                "link" : "/en/hotel supplies/dustbin with tray",
                 "img" : ["/trash-can.jpg"]
             },
             "two layer dustbin" : {
@@ -1002,7 +1002,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/two layer dustbin",
+                "link" : "/en/hotel supplies/two layer dustbin",
                 "img" : ["https://www.tools.com/assets/full/SHO-DWBN0003-BL.jpg?20230214091659"]
             },
             "side opening dustbin" : {
@@ -1015,7 +1015,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/side opening dustbin",
+                "link" : "/en/hotel supplies/side opening dustbin",
                 "img" : ["https://cdn.reliance-foundry.com/media/20220816115638/wooden-garbage-bin.jpg"]
             },
             "steel pedal dustbin" : {
@@ -1028,7 +1028,7 @@
                 "color" : ["White"],
                 "size" : ["5ltr","7ltr","12ltr"],
                 "type" : ["5ltr","7ltr","12ltr"],
-                "link" : "/hotel supplies/steel pedal dustbin",
+                "link" : "/en/hotel supplies/steel pedal dustbin",
                 "img" : ["https://cdn.shopify.com/s/files/1/0279/4477/9914/products/5-litres-stainless-steel-pedal-dustbin-5-litres-stainless-steel-pedal-dustbin-teb7rd_7f6cf0dc-4b67-450c-b4de-0cd046f47af6_1600x.jpg?v=1613090116"]
             },
             "dustbin steel" : {
@@ -1041,7 +1041,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/dustbin steel",
+                "link" : "/en/hotel supplies/dustbin steel",
                 "img" : ["https://images.thdstatic.com/productImages/52584221-abd3-493d-a683-75cef0c36335/svn/hls-commercial-trash-receptacles-thdc04g15b-64_1000.jpg"]
             },
             "barrier column and barrier rope" : {
@@ -1054,7 +1054,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/barrier column and barrier rope",
+                "link" : "/en/hotel supplies/barrier column and barrier rope",
                 "img" : ["https://www.dressityourself.co.uk/wp-content/uploads/2020/05/Red-Carpet-with-Rope-and-Pole-3.jpg"]
             },
             "chain lock" : {
@@ -1067,7 +1067,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/chain lock",
+                "link" : "/en/hotel supplies/chain lock",
                 "img" : ["https://m.media-amazon.com/images/I/71Cj9CQ1e+L._AC_UF1000,1000_QL80_.jpg"]
             },
             "hotel safe locker" : {
@@ -1080,7 +1080,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/hotel safe locker",
+                "link" : "/en/hotel supplies/hotel safe locker",
                 "img" : ["https://www.insidehook.com/wp-content/uploads/2023/02/Hotel-Sage.jpg?fit=1200%2C800"]
             },
             "telephone" : {
@@ -1093,7 +1093,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/telephone",
+                "link" : "/en/hotel supplies/telephone",
                 "img" : ["https://images.squarespace-cdn.com/content/v1/56ca8729f850827f40a70641/1485449733307-HLHYGSTDJILSWUCH8UCW/hospitality-Cloud-PBX-Phone-Systems-solution?format=1000w"]
             },
             "prayer mat" : {
@@ -1106,7 +1106,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/prayer mat",
+                "link" : "/en/hotel supplies/prayer mat",
                 "img" : ["https://cdn.shopify.com/s/files/1/0256/3955/1079/products/IMG20220406072115-01_compress70_1024x1024@2x.jpg?v=1649217439"]
             },
             "qibla direction sign" : {
@@ -1119,7 +1119,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/qibla direction sign",
+                "link" : "/en/hotel supplies/qibla direction sign",
                 "img" : ["/qibla.png"]
             },
             "holy quran" : {
@@ -1132,7 +1132,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/holy quran",
+                "link" : "/en/hotel supplies/holy quran",
                 "img" : ["https://images.unsplash.com/photo-1609599006353-e629aaabfeae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"]
             },
             "leather tissue box" : {
@@ -1145,7 +1145,7 @@
                 "color" : ["White"],
                 "size" : [],
                 "type" : [],
-                "link" : "/hotel supplies/leather tissue box",
+                "link" : "/en/hotel supplies/leather tissue box",
                 "img" : ["https://5.imimg.com/data5/SELLER/Default/2023/4/303299915/BU/FP/JM/90035684/leatherette-tissue-box.jpg"]
             }}
     },
@@ -1164,7 +1164,7 @@
                 "color" : ["White"],
                 "size" : ["160 x 260", "240 x 260"],
                 "type" : ["Single", "King"],
-                "link" : "/mattresses/mattress 01",
+                "link" : "/en/mattresses/mattress 01",
                 "img" : ["/mattress-with-topper.png"]
             },
             "mattress 02" : {
@@ -1177,7 +1177,7 @@
                 "color" : ["White"],
                 "size" : ["100 x 260 x 27", "100 x 260 x 27", "160 x 200 x 27", "200 x 200 x 27"],
                 "type" : ["Single 01", "Single 02", "Queen", "King"],
-                "link" : "/mattresses/mattress 02",
+                "link" : "/en/mattresses/mattress 02",
                 "img" : [ "/mattress-without-topper.png"]
             }
         }

@@ -73,7 +73,7 @@ const EmblaCarousel = (props) => {
                     initial="hidden"
                     whileInView="visible"
                     viewport={{ once: false, amount: 0.3 }}
-                    transition={{ delay: 0.1, duration: 1 }}
+                    transition={{ delay: 0.1, duration: 0.5 }}
                     variants={{
                       hidden: { opacity: 0.5, y: +50 },
                       visible: { opacity: 1, y: 0 }

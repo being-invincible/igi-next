@@ -5,7 +5,7 @@ import ProductCard from '@/app/components/ProductCard';
 import Footer from '@/app/components/Footer';
 
 const Category = ({params:{lang,category}}) => {
-category=category.replace("%20"," ");
+    category=category.replace("%20"," ");
     const dict = GetDictionary(lang)
 
     console.log(category);

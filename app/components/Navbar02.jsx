@@ -11,6 +11,7 @@ import { FaBackward } from 'react-icons/fa'
 
 import { SlGlobe } from "react-icons/sl";
 import { useRouter } from 'next/navigation';
+import { Router } from 'next/router';
 
 
 const Link = ({ page, selectedPage, setSelectedPage }) => {
@@ -29,6 +30,7 @@ const Link = ({ page, selectedPage, setSelectedPage }) => {
 const Navbar02 = ({ selectedPage, setSelectedPage, home, about, products, contact, services }) => {
 
     const route = useRouter();
+    // console.log(Router.name);
 
     // Language Dropdown
     const options = ['English', 'Arabic'];
@@ -46,7 +48,7 @@ const Navbar02 = ({ selectedPage, setSelectedPage, home, about, products, contac
 
                 {/* Desktop Nav */}
                 {/* {isAboveSmallScreens ? ( */}
-                    <div className='sm:hidden w-full py-4 flex items-center justify-between mx-auto px-20'>
+                    <div className='hidden w-full py-4 sm:flex items-center justify-between mx-auto px-20'>
 
                         <button
                             className="text-magic-potion hover:text-toddy-gold transition-all flex flex-wrap flex-col items-center font-montserrat text-md font-semibold gap-2"
@@ -71,7 +73,7 @@ const Navbar02 = ({ selectedPage, setSelectedPage, home, about, products, contac
 
                 {/* ) : ( */}
 
-                    <div className='hidden p-4 md:flex items-center justify-between gap-16'>
+                    <div className='md:hidden p-4 flex items-center justify-between gap-16'>
                         <a href='/'><img className='w-12 lg:w-14' src="/igi-main-logo.png" alt="Logo" /></a>
                         <select onChange={onOptionChangeHandler} className="bg-magic-potion px-2 h-[25px] rounded-md font-montserrat text-sm hover:bg-tulip-yellow" >
                             {options.map((option, index) => {
