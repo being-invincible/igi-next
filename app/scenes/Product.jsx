@@ -1,10 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
 
-// Json Data
-import en from '../lng/en.json'
-import ar from '../lng/ar.json'
-
 // slideToScroll CSS
 import '../components/slideToScroll/css/embla.css'
 import '../components/slideToScroll/css/sandbox.css'
@@ -13,12 +9,9 @@ import '../components/slideToScroll/css/sandbox.css'
 import EmblaCarousel from '../components/slideToScroll/EmblaCarousel'
 
 import {AiOutlineRight, AiOutlineDown} from 'react-icons/ai'
-import GetDictionary from '../utils/dictionaries';
 
 
-const Product = ({ products, productsContent, lang }) => {
-
-    const dict = GetDictionary(lang)
+const Product = ({ products, productsContent, dict }) => {
 
     const products1 = dict['bed linen'].products;
     const products2 = dict['guest amenities'].products;
@@ -106,7 +99,7 @@ const Product = ({ products, productsContent, lang }) => {
 
                 {/* First Category of Products */}
                 <div class="mb-5">
-                    <Link href={lang+"/bed linen"}>
+                    <Link href={dict.langsuffix+"/bed linen"}>
                     <div className="w-full mb-2 lg:mb-0 flex flex-row flex-wrap items-center">
                         <div className='flex flex-row gap-4 w-2/4 lg:w-2/12'>
                             <img className='w-10' src={dict['bed linen'].logo} alt="logo" />
@@ -126,7 +119,7 @@ const Product = ({ products, productsContent, lang }) => {
                   <EmblaCarousel slides={SLIDES1} options={OPTIONS} images={img1} titles={title01} links={link01} />
                 </section>
 
-                <Link href={lang+"/bed linen"}>
+                <Link href={dict.langsuffix+"/bed linen"}>
                 <div className='py-5 flex flex-row items-center justify-center w-full md:hidden'>
                     <h2 className="text-right mr-4">View More</h2>
                     <AiOutlineDown className='animate-bounce' />
@@ -136,7 +129,7 @@ const Product = ({ products, productsContent, lang }) => {
 
                 {/* Second Category of Products */}
                 <div class="mt-10 mb-8">
-                    <Link href={lang+"/guest amenities"}>
+                    <Link href={dict.langsuffix+"/guest amenities"}>
                     <div class="w-full mb-2 lg:mb-0 flex flex-row flex-wrap items-center">
                         <div className='flex flex-row gap-4 w-3/4 lg:w-3/12'>
                             <img className='w-10' src={dict['guest amenities'].logo} alt="logo" />
@@ -157,7 +150,7 @@ const Product = ({ products, productsContent, lang }) => {
                   <EmblaCarousel slides={SLIDES2} options={OPTIONS} images={img2} titles={title02} links={link02} />
                 </section>
 
-                <Link href={lang+"/guest amenities"}>
+                <Link href={dict.langsuffix+"/guest amenities"}>
                 <div className='py-5 flex flex-row items-center justify-center w-full md:hidden'>
                     <h2 className="text-right mr-4">View More</h2>
                     <AiOutlineDown className='animate-bounce' />
@@ -168,7 +161,7 @@ const Product = ({ products, productsContent, lang }) => {
                 {/* Third Category of Products */}
                 <div>
                 <div class="mt-10 mb-8">
-                    <Link href={lang+"/homes"}>
+                    <Link href={dict.langsuffix+"/homes"}>
                     <div class="w-full mb-2 lg:mb-0 flex flex-row flex-wrap items-center">
                         <div className='flex flex-row gap-4 w-2/4 lg:w-2/12'>
                             <img className='w-10' src={dict['homes'].logo} alt="logo" />
@@ -190,7 +183,7 @@ const Product = ({ products, productsContent, lang }) => {
                 </section>
                 </div>
 
-                <Link href={lang+"/homes"}>
+                <Link href={dict.langsuffix+"/homes"}>
                 <div className='py-5 flex flex-row items-center justify-center w-full md:hidden'>
                     <h2 className="text-right mr-4">View More</h2>
                     <AiOutlineDown className='animate-bounce' />
@@ -201,7 +194,7 @@ const Product = ({ products, productsContent, lang }) => {
                 {/* Fourth Category of Products */}
                 <div>
                 <div class="mt-10 mb-8">
-                    <Link href={lang+"/mattresses"}>
+                    <Link href={dict.langsuffix+"/mattresses"}>
                     <div class="w-full mb-2 lg:mb-0 flex flex-row flex-wrap items-center">
                         <div className='flex flex-row gap-4 w-2/4 lg:w-2/12'>
                             <img className='w-10' src={dict['mattresses'].logo} alt="logo" />
@@ -223,7 +216,7 @@ const Product = ({ products, productsContent, lang }) => {
                 </section>
                 </div>
 
-                <Link href={lang+"/mattresses"}>
+                <Link href={dict.langsuffix+"/mattresses"}>
                 <div className='py-5 flex flex-row items-center justify-center w-full md:hidden'>
                     <h2 className="text-right mr-4">View More</h2>
                     <AiOutlineDown className='animate-bounce' />
@@ -234,7 +227,7 @@ const Product = ({ products, productsContent, lang }) => {
                 {/* Fifth Category of Products */}
                 <div className=''>
                 <div class="mt-10 mb-8">
-                    <Link href={lang+"/hotel supplies"}>
+                    <Link href={dict.langsuffix+"/hotel supplies"}>
                     <div class="w-full mb-2 lg:mb-0 flex flex-row flex-wrap items-center">
                         <div className='flex flex-row gap-4 w-3/4 lg:w-3/12'>
                             <img className='w-10' src={dict['hotel supplies'].logo} alt="logo" />
@@ -256,7 +249,7 @@ const Product = ({ products, productsContent, lang }) => {
                 </section>
                 </div>
 
-                <Link href={lang+"/hotel supplies"}>
+                <Link href={dict.langsuffix+"/hotel supplies"}>
                 <div className='py-5 flex flex-row items-center justify-center w-full md:hidden'>
                     <h2 className="text-right mr-4">View More</h2>
                     <AiOutlineDown className='animate-bounce' />

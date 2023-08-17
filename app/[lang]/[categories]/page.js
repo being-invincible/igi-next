@@ -4,14 +4,14 @@ import Navbar02 from '@/app/components/Navbar02';
 import ProductCard from '@/app/components/ProductCard';
 import Footer from '@/app/components/Footer';
 
-const Categories = ({params:{lang,categories}}) => {
-categories=categories.replace("%20"," ");
+const Category = ({params:{lang,category}}) => {
+category=category.replace("%20"," ");
     const dict = GetDictionary(lang)
 
-    console.log(categories);
+    console.log(category);
     
     // Converting JSON Object to Array Map for multiple product card mapping
-    const products = dict[categories].products;
+    const products = dict[category].products;
 
     return (
         <>
@@ -23,18 +23,18 @@ categories=categories.replace("%20"," ");
             {/* Brand Heading */}
             <div className="flex flex-row items-center mb-5 lg:mb-8 gap-5">
             <div className="flex flex-col items-center text-center gap-2">
-            <img className='w-20 lg:w-40' src={dict[categories].logo} alt="Logo" />
-            {/* <h1 class="sm:text-lg text-xl font-medium title-font text-tulip-yellow uppercase">{dict[categories]}.title`)}</h1> */}
+            <img className='w-20 lg:w-40' src={dict[category].logo} alt="Logo" />
+            {/* <h1 class="sm:text-lg text-xl font-medium title-font text-tulip-yellow uppercase">{dict[category]}.title`)}</h1> */}
             </div>
             <div class="">
-                <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-tulip-yellow uppercase">{dict[categories].title}</h1>
+                <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-tulip-yellow uppercase">{dict[category].title}</h1>
                 <div class="h-1 w-20 bg-tulip-yellow rounded"></div>
             </div>
             </div>
 
             {/* About the Brand */}
             <div class="lg:w-full w-full mb-5 lg:mb-8">
-                <p class="leading-relaxed text-base text-magic-potion">{dict[categories].description}</p>
+                <p class="leading-relaxed text-base text-magic-potion">{dict[category].description}</p>
             </div>
 
             {/* Divider with Title */}
@@ -57,4 +57,4 @@ categories=categories.replace("%20"," ");
     )
 }
 
-export default Categories;
+export default Category;

@@ -78,7 +78,17 @@ const About = ({ setSelectedPage, aboutTitle, aboutContent, button02, button03 }
             </div>
 
             {/* Image Section */}
-            <div>
+            <motion.div 
+                    className=""
+                    initial="hidden"
+                    whileInView="visible"
+                    viewport={{ once: false, amount: 0.5 }}
+                    transition={{delay:0.1, duration: 0.9 }}
+                    variants={{
+                        hidden: { opacity: 0, x: -50 },
+                        visible: { opacity: 1, x: 0 }
+                    }}
+                >
                 <div class="p-2.5 bg-magic-potion/20">
                     <div
                         class="overflow-hidden cursor-pointer rounded-sm relative group z-0 before:absolute before:w-full before:max-w-[500px] md:before:max-w-[800px]  before:h-full"
@@ -90,7 +100,7 @@ const About = ({ setSelectedPage, aboutTitle, aboutContent, button02, button03 }
                         />
                     </div>
                 </div>
-            </div>
+                </motion.div>
         </section>
     )
 }
